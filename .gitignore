@@ -1,0 +1,18 @@
+# Keep local tools, browser profiles, backups and notes out of the public repository.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/styles.css
+!/portfolio.js
+!/motion.js
+!/projects.js
+!/robots.txt
+!/sitemap.xml
+!/assets/
+
+**/.DS_Store
+**/Thumbs.db
+**/.env*
+**/*.pem
+**/*.key
